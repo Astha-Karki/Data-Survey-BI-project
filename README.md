@@ -19,7 +19,7 @@ This Power BI dashboard analyzes survey responses from 630+ data professionals t
 - `README.md`: Project overview and instructions
 
 ## 📸 Dashboard Preview
-![Preview](Screenshot 2025-04-18 122652.png) 
+![Dashboard Preview](images/dashboard-preview.png)
 
 ## 🚀 How to Use
 1. Clone the repo or download the `.pbix` file

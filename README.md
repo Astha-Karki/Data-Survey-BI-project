@@ -1,30 +1,39 @@
-Data Professional Survey Dashboard – Power BI Project
-Overview
-This project involves creating an interactive Power BI dashboard to analyze survey data from 630 data professionals. The dashboard provides insights into various aspects such as salaries, job roles, programming language preferences, satisfaction levels, and global distribution.​
-GitHub
+# 📊 Data Professional Survey Dashboard
 
-Key Features
-Data Modeling: Establishing relationships between multiple tables to ensure accurate data representation.
+This Power BI dashboard analyzes survey responses from 630+ data professionals to uncover insights about salary, job satisfaction, and tech preferences.
 
-DAX Measures: Utilizing Data Analysis Expressions (DAX) to create calculated measures for dynamic insights.
+## 🔧 Tools Used
+- Power BI
+- DAX
+- Power Query
 
-Visualizations:
+## 📈 Key Features
+- Dynamic filters by country, gender, and job role
+- Donut charts for salary distribution
+- Treemaps for regional representation
+- Gauge visuals for satisfaction metrics
 
-Donut charts to display salary distributions by gender.
+## 📁 Files
+- `/dashboard.pbix`: Main Power BI file
+- `/images/dashboard-preview.png`: Screenshot of the report
+- `README.md`: Project overview and instructions
 
-Gauge visuals to represent satisfaction scores related to salary and work-life balance.
+## 📸 Dashboard Preview
+![Preview](images/dashboard-preview.png)
 
-Treemaps illustrating the geographic distribution of survey respondents.
+## 🚀 How to Use
+1. Clone the repo or download the `.pbix` file
+2. Open in Power BI Desktop
+3. Explore filters and visuals interactively
 
-Interactive Elements: Incorporating slicers and filters to allow users to customize their view and drill down into specific data segments.
+## ✅ Insights
+- Highest satisfaction found in roles using Python
+- Salaries vary significantly by country and gender
+- Majority of professionals are self-taught or bootcamp-trained
 
-User Experience: Designing a clean and intuitive layout with color-coordinated visuals for enhanced readability.​
-Project Templates
-
-
-Tools & Technologies
-Power BI Desktop
-
+## 🧠 Future Work
+- Add predictive salary model
+- Integrate with a live API for job market trends
 DAX (Data Analysis Expressions)
 
 Power Query for data transformation​
